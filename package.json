@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "typescript-mock-server": "^0.0.7"
+    "typescript-mock-server": "^0.0.8"
   }
 }
