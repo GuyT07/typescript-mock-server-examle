@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run --prefix node_modules/typescript-mock-server start -- --path=$(pwd)/tms-models --port=3000"
+    "start": "npm run --prefix node_modules/typescript-mock-server start -- --path=/tms-models --port=3000"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "typescript-mock-server": "^0.0.10"
+    "typescript-mock-server": "https://github.com/GuyT07/typescript-mock-server"
   }
 }
